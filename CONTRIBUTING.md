@@ -6,11 +6,11 @@ Forkez le dépôt et créez une branche dédiée à votre participation.
 
 Votre réalisation doit être placée dans :
 
-`editions/<edition>/candidates/<identifiant>/`
+`editions/<année>/<édition>/candidates/<identifiant>/`
 
 Exemple :
 
-`editions/2027-01-ministere-des-excuses/candidates/erwan/`
+`editions/2027/2027-01-ministere-des-excuses/candidates/erwan/`
 
 ## 2. Structure du projet
 

@@ -22,13 +22,21 @@ Ici, on ne récompense pas le code le plus propre, mais la créativité dans l'a
 
 | Édition | Thème | Vainqueur |
 |---|---|---|
-| #001 - 2027 | À dévoiler prochainement | À déterminer |
+| [#001 - 2027](./editions/2027/2027-01-ministere-des-excuses/) | [Le Ministère des Excuses](./editions/2027/2027-01-ministere-des-excuses/) | À déterminer |
+
+## Les saisons
+
+| Saison | Éditions |
+|---|---|
+| [2027](./editions/2027/) | [#001 - Le Ministère des Excuses](./editions/2027/2027-01-ministere-des-excuses/) |
+
+Chaque édition dispose de son propre `README.md` avec le sujet, les exigences, les dates et les modalités de vote. Le `README.md` de la saison récapitule les éditions de l'année.
 
 ## Comment participer ?
 
-1. Consultez le thème de l'édition en cours.
+1. Consultez le thème de l'[édition en cours](./editions/2027/2027-01-ministere-des-excuses/).
 2. Forkez le dépôt.
-3. Créez votre dossier dans `editions/<edition>/candidates/<votre-identifiant>/`.
+3. Créez votre dossier dans `editions/<année>/<édition>/candidates/<votre-identifiant>/`.
 4. Développez votre solution.
 5. Ajoutez un README expliquant comment l'exécuter.
 6. Ouvrez une Pull Request vers `main`.
